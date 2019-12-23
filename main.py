@@ -9,3 +9,6 @@ print("This line was added at the beginning of BR1")
 del m
 m = func2.func2_class
 m.about()
+del m
+m = func2.func2_class
+m.about()
